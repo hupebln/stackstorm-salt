@@ -1,6 +1,6 @@
 ---
-ref: salt
-name : salt
+ref: salt-customized
+name : salt-customized
 description : salt integration pack
 keywords:
   - salt
